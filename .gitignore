@@ -1,5 +1,5 @@
-./.idea
-./Friends_Book_Application/node_modules
-./Friends_Book_Application/.env
-./Friends_Book_Application/.gitignore
-./Friends_Book_Backend/node_modules
+.idea
+Friends_Book_Application/node_modules
+Friends_Book_Application/.env
+Friends_Book_Application/.gitignore
+Friends_Book_Backend/node_modules
